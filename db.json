@@ -7,6 +7,26 @@
 			"PROJECT_LONG_NAME": "This is Project A which is non-restricted"
 			},
 			{
+			"PROJECT_SHORT_NAME": "Non-restricted B",
+			"PROJECT_LONG_NAME": "This is Project A which is non-restricted"
+			},
+			{
+			"PROJECT_SHORT_NAME": "Non-restricted C",
+			"PROJECT_LONG_NAME": "This is Project C which is non-restricted"
+			},
+			{
+			"PROJECT_SHORT_NAME": "Non-restricted D",
+			"PROJECT_LONG_NAME": "This is Project D which is non-restricted"
+			},
+			{
+			"PROJECT_SHORT_NAME": "Non-restricted E",
+			"PROJECT_LONG_NAME": "This is Project E which is non-restricted"
+			},
+			{
+			"PROJECT_SHORT_NAME": "Non-restricted F",
+			"PROJECT_LONG_NAME": "This is Project F which is non-restricted"
+			},	    
+			{
 			"PROJECT_SHORT_NAME": "Non-restricted G",
 			"PROJECT_LONG_NAME": "This is Project G which is non-restricted"
 			},
