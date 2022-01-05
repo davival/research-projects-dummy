@@ -1,0 +1,63 @@
+{   "paging": {
+			"total": 14	
+			},
+    "data": [
+			{
+			"PROJECT_SHORT_NAME": "Non-restricted A",
+			"PROJECT_LONG_NAME": "This is Project A which is non-restricted"
+			},
+			{
+			"PROJECT_SHORT_NAME": "Non-restricted B",
+			"PROJECT_LONG_NAME": "This is Project A which is non-restricted"
+			},
+			{
+			"PROJECT_SHORT_NAME": "Non-restricted C",
+			"PROJECT_LONG_NAME": "This is Project C which is non-restricted"
+			},
+			{
+			"PROJECT_SHORT_NAME": "Non-restricted D",
+			"PROJECT_LONG_NAME": "This is Project D which is non-restricted",
+			},
+			{
+			"PROJECT_SHORT_NAME": "Non-restricted E",
+			"PROJECT_LONG_NAME": "This is Project E which is non-restricted"
+			},
+			{
+			"PROJECT_SHORT_NAME": "Non-restricted F",
+			"PROJECT_LONG_NAME": "This is Project F which is non-restricted"
+			},
+			{
+			"PROJECT_SHORT_NAME": "Non-restricted G",
+			"PROJECT_LONG_NAME": "This is Project G which is non-restricted"
+			},
+			{
+			"PROJECT_SHORT_NAME": "Non-restricted H",	
+			"PROJECT_LONG_NAME": "This is Project H which is non-restricted"
+			},
+			{
+			"PROJECT_SHORT_NAME": "Exploratory",	
+			"PROJECT_LONG_NAME": "This is a project placeholder for non-restricted projects"
+			},
+			{
+			"PROJECT_SHORT_NAME": "Restricted Z",	
+			"PROJECT_LONG_NAME": "This is a Project Z which is restricted"
+			},
+			{
+			"PROJECT_SHORT_NAME": "Restricted Y",	
+			"PROJECT_LONG_NAME": "This is a Project Y which is restricted"
+			},
+			{
+			"PROJECT_SHORT_NAME": "Restricted X",	
+			"PROJECT_LONG_NAME": "This is a Project X which is restricted"
+			},
+			{
+			"PROJECT_SHORT_NAME": "Restricted W",	
+			"PROJECT_LONG_NAME": "This is a Project W which is restricted"
+			},
+			{
+			"PROJECT_SHORT_NAME": "Restricted V",	
+			"PROJECT_LONG_NAME": "This is a Project V which is restricted"
+			}			
+			]
+
+}
