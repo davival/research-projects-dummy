@@ -1,5 +1,5 @@
 {   "paging": {
-			"total": 14	
+			"total": 15	
 			},
     "data": [
 			{
@@ -34,6 +34,10 @@
 			"PROJECT_SHORT_NAME": "Non-restricted H",	
 			"PROJECT_LONG_NAME": "This is Project H which is non-restricted"
 			},
+			{
+			"PROJECT_SHORT_NAME": "Non-restricted I",	
+			"PROJECT_LONG_NAME": "This is Project I which is non-restricted"
+			},	    
 			{
 			"PROJECT_SHORT_NAME": "Exploratory",	
 			"PROJECT_LONG_NAME": "This is a project placeholder for non-restricted projects"
